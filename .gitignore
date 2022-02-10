@@ -1,11 +1,7 @@
 _site
-.sass-cache
+.bundle
+.DS_Store
+.jekyll-cache
 .jekyll-metadata
-_glynn.yml
-_drafts
-*.save*
-*.save
-*.css.map
-notes.md
-.lock
-_site
+.sass-cache
+Gemfile.lock
